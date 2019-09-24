@@ -61,6 +61,10 @@ public class Carloan {
 		System.out.println("close broswer");
 	}
 	
+	public void closeBrowsernew123() {
+		System.out.println("close broswer");
+	}
+	
 	
 	@DataProvider
 	public Object[][] getData() {
