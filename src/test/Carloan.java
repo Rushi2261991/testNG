@@ -56,6 +56,12 @@ public class Carloan {
 		System.out.println("close broswer");
 	}
 	
+
+	public void closeBrowsernew() {
+		System.out.println("close broswer");
+	}
+	
+	
 	@DataProvider
 	public Object[][] getData() {
 		//1 set combination username , password
